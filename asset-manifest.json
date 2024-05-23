@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/olsen1229/goit-react-hw-01-components/static/css/main.3fcb8e9b.css",
+    "main.js": "/olsen1229/goit-react-hw-01-components/static/js/main.e63a4330.js",
+    "index.html": "/olsen1229/goit-react-hw-01-components/index.html",
+    "main.3fcb8e9b.css.map": "/olsen1229/goit-react-hw-01-components/static/css/main.3fcb8e9b.css.map",
+    "main.e63a4330.js.map": "/olsen1229/goit-react-hw-01-components/static/js/main.e63a4330.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fcb8e9b.css",
+    "static/js/main.e63a4330.js"
+  ]
+}
